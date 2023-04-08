@@ -1,0 +1,48 @@
+body
+{
+    /*background: url(https://cdn.wallpapersafari.com/17/85/vk4qhS.jpg);
+    background-size: cover;
+    background-repeat: no repeat;*/
+    background-color: rgba(219, 150, 21,0.9);
+    font-family: 'Catamaran', sans-serif;
+}
+#tittle{
+    color: rgb(48, 48, 204);
+}
+.c1{
+    height: 400px;
+    width: 50%;
+    /*background:linear-gradient(-900deg, red, blue);*/
+}
+.text1{
+    color: yellow;
+}
+.text2{
+    color: rgb(15, 15, 1);
+}
+.img2{
+    height: 400px;
+}
+#container1{
+    background: radial-gradient(circle, orange 30%, white 20%, blue 50%);
+    background-size: cover;
+}
+#container2{
+    background: radial-gradient(circle, orange 20%, blue 30%, rgb(71, 2, 2) 30%,white 20%);
+    background-size: cover;
+}
+.cell1{
+    border: 3px solid red;      
+}
+hr{
+    background-color: rgb(246, 248, 240);
+    /*border-style: none;*/
+    border-style: dotted none none none;
+    border-width: 3px;
+    background-color: rgba(219, 150, 21,0.9);
+    border-color: grey;
+
+    /*height: 1px;*/
+    width: 5%;
+    /*margin-right: 1399px;*/
+}
