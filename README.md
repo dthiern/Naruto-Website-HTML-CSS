@@ -18,4 +18,5 @@ This application is my 1st year 2nd sem assignment it only contains frontend.
 <h3>#root Installations:</h3>
 <li>This project has no installations it is only based on HTML and CSS</li>
 
-  
+<br/>###Thankyou for visiting my github###<br/>
+@BhaskarGuthula
